@@ -38,3 +38,5 @@ Referências
 - Slides da Professora 
 - Data Structure and Algorithmic Thinking with Python
 - StackOverflow
+
+https://github.com/monnomero/Projeto-ED-23.2/assets/86272070/6d030e92-8862-4c0b-a2b1-217d659b58d7
