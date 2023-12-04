@@ -21,6 +21,7 @@ Instruções de Execução:
 	Execute o arquivo Python arvore_avl_cores.py em seu ambiente Python.
 
 Instruções de Uso:
+
 	Inserir cores manualmente: Utilize a opção "ICM" e insira as cores no formato 255,255,255 (R,G,B).
 	Inserir cores com o mouse: Escolha "ICCM" para selecionar cores com o mouse.
 	Buscar cores na árvore: Use "B" para buscar uma cor específica na árvore.
