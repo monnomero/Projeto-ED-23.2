@@ -1,19 +1,15 @@
 Árvore AVL para Manejamento de Cores de Forma Única
 
 Descrição do Projeto:
-
 	Este projeto implementa uma árvore AVL para gerenciar cores RGB. Ele permite a inserção, busca, remoção e visualização de cores, assim como a criação de arte abstrata usando uma seleção manual, a partir do mouse, ou aleatória de cores.
 
 Autores:
-
 	Nome do Autor: Henrique de Oliveira Noronha
 
 Contexto de Aplicação:
-
 	Este projeto foi desenvolvido para fins educacionais e artísticos. Ele oferece uma maneira única e interativa de manipular e visualizar cores, a partir do balanceamento da árvore AVL, além de criar arte abstrata a partir de uma seleção de cores. Um exemplo de aplicação seria o de analisar como uma paleta de cores presente em uma pintura se comporta em uma árvore AVL, além de poder fazer uma arte abstrata rudimentar a partir dessa paleta.
 
 Estruturas de Dados Utilizadas:
-
 	O projeto utiliza uma Árvore AVL para armazenar e gerenciar as cores RGB. A estrutura da árvore AVL é escolhida por sua capacidade de balanceamento automático, garantindo operações eficientes de inserção, busca e remoção, além de proporcionar uma visão única sobre a relação das cores RGB.
 
 Instruções de Execução:
